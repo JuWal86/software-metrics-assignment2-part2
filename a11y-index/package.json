@@ -1,0 +1,16 @@
+{
+  "name": "static-a11y-index",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "analyze": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fast-glob": "^3.3.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
