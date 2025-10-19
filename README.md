@@ -58,6 +58,6 @@ git clone https://github.com/gatsbyjs/gatsby.git
 git clone https://github.com/gohugoio/hugoDocs.git
 git clone https://github.com/vercel/next.js.git
 git clone https://github.com/reactjs/react.dev.git
-git clone https://github.com/readthedocs/readthedocs.org.git
-git clone https://github.com/julwalt/static-accessibility.git
-git clone https://github.com/julwalt/website.git
+git clone https://github.com/rtfd/readthedocs.org.git
+git clone https://github.com/GoogleChrome/web.dev.git
+git clone https://github.com/kubernetes/website.git
